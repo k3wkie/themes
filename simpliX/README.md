@@ -1,4 +1,4 @@
-| ![alt text](https://raw.githubusercontent.com/sixsixfive/themes/simpliX/master/prev.png "Preview") | ![alt text](https://raw.githubusercontent.com/sixsixfive/themes/simpliX/master/all.png "Preview") |
+| ![alt text](https://raw.githubusercontent.com/sixsixfive/themes/master/simpliX/prev.png "Preview") | ![alt text](https://raw.githubusercontent.com/sixsixfive/themes/master/simpliX/all.png "Preview") |
 | ------------- |:-------------:|
 | GUI | almost all stuff |
 
@@ -23,7 +23,6 @@ A very bright and simple (but daily useable) theme inspired by Elegant Brit
 ##### How to get the files?:
 
 * Subversion: **`svn co https://github.com/sixsixfive/themes/trunk/simpliX`**
-* you can also download the ZIP -->Sidebar!
 
 **Note:**
 
