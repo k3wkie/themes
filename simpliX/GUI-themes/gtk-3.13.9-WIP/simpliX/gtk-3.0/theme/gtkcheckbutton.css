@@ -1,0 +1,102 @@
+GtkCheckButton,
+GtkCheckButton:checked,
+GtkCheckButton:hover,
+GtkCheckMenuItem {
+-GtkCheckMenuItem-indicator-size:18px;
+-GtkCheckButton-indicator-size:18px;
+-GtkCheckButton-indicator-spacing:1px;
+-GtkButton-child-displacement-x:0;
+-GtkButton-child-displacement-y:0;
+background-color:transparent;}
+
+GtkCheckButton.check:insensitive,
+GtkTreeGtkTreeView.check:insensitive,
+GtkRadioButton.radio:insensitive{
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradiounchecked.gif"));}
+
+GtkCheckButton.check,
+GtkTreeView.check,
+GtkRadioButton.radio{
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradiounchecked.gif"));}
+
+GtkCheckButton.check:hover,
+GtkTreeView.check:hover,
+GtkRadioButton.radio:hover{
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradiounchecked.gif"));}
+
+GtkCheckButton.check:checked:insensitive,
+GtkTreeView.check:checked:insensitive,
+GtkRadioButton.radio:checked:insensitive{
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradiocheckedinsensitive.gif"));}
+
+GtkCheckButton.check:checked,
+GtkTreeView.check:checked,
+GtkRadioButton.radio:checked{
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradiochecked.gif"));}
+
+GtkCheckButton.check:checked:hover,
+GtkTreeView.check:checked:hover,
+GtkRadioButton.radio:checked:hover{
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradiocheckedprelight.gif"));}
+
+GtkCheckButton.check:inconsistent:insensitive,
+GtkTreeView.check:inconsistent:insensitive,
+GtkRadioButton.radio:inconsistent:insensitive{
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradiocheckedinsensitive.gif"));}
+
+GtkCheckButton.check:inconsistent,
+GtkTreeView.check:inconsistent,
+GtkRadioButton.radio:inconsistent{
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradioinconsistentchecked.gif"));}
+
+GtkCheckButton.check:inconsistent:hover,
+GtkTreeView.check:inconsistent:hover,
+GtkRadioButton.radio:inconsistent:hover{
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradioinconsistentprelight.gif"));}
+
+GtkMenuItem.check,
+GtkMenuItem.check:hover,
+GtkMenuItem.radio,
+GtkMenuItem.radio:hover {
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradiounchecked.gif"));}
+
+GtkMenuItem.check:checked,
+GtkMenuItem.radio:checked {
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradiochecked.gif"));}
+
+GtkMenuItem.check:checked:hover,
+GtkMenuItem.radio:checked:hover {
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradiocheckedprelight.gif"));}
+
+GtkMenuItem.check:inconsistent,
+GtkMenuItem.radio:inconsistent {
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradioinconsistentchecked.gif"));}
+
+GtkMenuItem.check:inconsistent:hover,
+GtkMenuItem.radio:inconsistent:hover {
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradioinconsistentprelight.gif"));}
+
+GtkMenuItem.check:inconsistent:insensitive,
+GtkMenuItem.radio:inconsistent:insensitive {
+background-color:transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradiocheckedinsensitive.gif"));}
+
+GtkMenuItem.check:checked:insensitive,
+GtkMenuItem.radio:checked:insensitive {
+background-color: transparent;
+-gtk-icon-source: -gtk-scaled(url("../images/checkradiocheckedinsensitive.gif"));}
+

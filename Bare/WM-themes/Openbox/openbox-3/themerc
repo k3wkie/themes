@@ -1,0 +1,102 @@
+# Name: Bare
+# Author: sxsixfive <sixsixfive.deviantart.com>
+
+### Menu settings
+menu.title.bg: flat solid
+menu.title.bg.color: #ffffff
+menu.title.text.color: #303030
+menu.title.text.justify: Center
+
+menu.items.bg: flat solid
+menu.items.bg.color: #ffffff
+menu.items.text.color: #303030
+menu.items.disabled.text.color: #dadada
+
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #dee8f4
+menu.items.active.text.color: #303030
+
+menu.separator.color: #f2f2f2
+menu.border.color: #d1d1d1
+menu.border.width: 1
+menu.overlap.x: 3
+menu.overlap.y: 0
+
+#### Window settings (focused)
+window.active.title.bg: Raised Gradient Vertical
+window.active.title.bg.highlight: 15
+window.active.title.bg.shadow: 0
+window.active.title.bg.color:   #eaeaea
+window.active.title.bg.colorTo: #eaeaea
+window.active.title.bg.border.color: #ff00ff
+window.active.title.separator.color: #eaeaea
+
+window.active.border.color: #969696
+window.active.client.color: #f2f2f2
+
+window.active.label.bg: parentrelative
+window.active.label.text.color: #303030
+
+window.active.handle.bg: flat solid
+window.active.handle.bg.color: #ff00ff
+
+window.active.grip.bg: flat solid
+window.active.grip.bg.color: #ff00ff
+
+window.active.button.*.bg: parentrelative
+window.active.button.unpressed.image.color: #303030
+window.active.button.pressed.image.color: #8eaacc
+window.active.button.disabled.image.color: #888888
+window.active.button.hover.image.color: #303030
+window.active.button.toggled.image.color: #888888
+
+
+#### Window settings (unfocused)
+window.inactive.title.bg: Raised Gradient Vertical
+window.inactive.title.bg.highlight: 15
+window.inactive.title.bg.shadow: 0
+window.inactive.title.bg.color:   #eaeaea
+window.inactive.title.bg.colorTo: #eaeaea
+window.inactive.title.bg.border.color: #ff00ff
+window.inactive.title.separator.color: #eaeaea
+
+window.inactive.border.color: #969696
+window.inactive.client.color: #f2f2f2
+
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #888888
+
+window.inactive.handle.bg: flat solid
+window.inactive.handle.bg.color: #ff00ff
+
+window.inactive.grip.bg: flat solid
+window.inactive.grip.bg.color: #ff00ff
+
+window.inactive.button.*.bg: parentrelative
+window.inactive.button.unpressed.image.color: #888888
+window.inactive.button.pressed.image.color: #8eaacc
+window.inactive.button.disabled.image.color: #888888
+window.inactive.button.hover.image.color: #888888
+window.inactive.button.toggled.image.color: #888888
+
+### OSD
+osd.border.width: 1
+osd.border.color: #969696
+osd.bg: flat soid
+osd.bg.color: #eaeaea
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #dee8f4
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #eaeaea
+osd.label.text.color: #303030
+
+### Everything else
+border.width: 1
+padding.width: 3
+window.handle.width: 0
+window.client.padding.width: 0
+window.client.padding.height 0
+window.label.text.justify: Right
+
+### Fonts
+*.label.text.font:shadow=n:shadowtint=0:shadowoffset=0

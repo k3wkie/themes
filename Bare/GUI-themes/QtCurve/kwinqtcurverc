@@ -1,0 +1,16 @@
+[ActiveShadows]
+ColorType=4
+Size=10
+VOffset=0
+
+[General]
+BorderSize=2
+CustomShadows=true
+InnerBorder=0
+OpaqueBorder=false
+OuterBorder=1
+RoundBottom=false
+
+[InactiveShadows]
+Size=10
+VOffset=0
